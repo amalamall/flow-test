@@ -19,7 +19,7 @@ Ce projet vise à calculer les meilleures dates d'achat et de vente pour différ
 
 1. Clonez ce dépôt sur votre machine locale.
    ```bash
-   git clone https://github.com/VotreNom/flow-test.git
+   git clone https://github.com/amalamall/flow-test.git
    ```
 
 2. Installez les dépendances du projet.
