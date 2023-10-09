@@ -40,6 +40,6 @@ Ce projet vise à calculer les meilleures dates d'achat et de vente pour différ
    ```bash
    npx prisma migrate dev
    ```
-   - Envoyez une requête POST à cette URL [http://localhost:3000/api/companies/seed] pour initialiser la base de données.
+   - Envoyez une requête POST à cette URL **http://localhost:3000/api/companies/seed** pour initialiser la base de données.
    - Visitez [http://localhost:3000](http://localhost:3000)
 
